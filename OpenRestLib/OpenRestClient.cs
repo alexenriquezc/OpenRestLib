@@ -60,14 +60,14 @@ namespace OpenRestLib
                         }
                         catch (Exception e)
                         {
-                            Debug.WriteLine(e.Message);
+                            //Debug.WriteLine(e.Message);
                         }
                     }
                 }
                 catch (Exception e)
                 {
 
-                    Debug.WriteLine(e.Message);
+                    //Debug.WriteLine(e.Message);
                 }
             }
 

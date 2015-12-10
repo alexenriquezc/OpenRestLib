@@ -1,0 +1,17 @@
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\OpenRestLib.dll.config
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\OpenRestLib.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\OpenRestLib.pdb
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\Newtonsoft.Json.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\System.Net.Http.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\System.Net.Http.Extensions.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\System.Net.Http.Primitives.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\Newtonsoft.Json.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\System.Net.Http.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\System.Net.Http.Extensions.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Debug\System.Net.Http.Primitives.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\obj\Debug\OpenRestLib.csproj.App.config
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\obj\Debug\OpenRestLib.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\obj\Debug\OpenRestLib.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\obj\Debug\OpenRestLib.pdb

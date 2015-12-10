@@ -1,0 +1,16 @@
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\OpenRestLib.dll.config
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\OpenRestLib.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\OpenRestLib.pdb
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\Newtonsoft.Json.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\System.Net.Http.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\System.Net.Http.Extensions.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\System.Net.Http.Formatting.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\System.Net.Http.Primitives.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\Newtonsoft.Json.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\System.Net.Http.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\System.Net.Http.Extensions.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\System.Net.Http.Formatting.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\bin\Release\System.Net.Http.Primitives.xml
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\obj\Release\OpenRestLib.csproj.App.config
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\obj\Release\OpenRestLib.dll
+c:\users\alex\documents\visual studio 2013\Projects\OpenRestLib\OpenRestLib\obj\Release\OpenRestLib.pdb
